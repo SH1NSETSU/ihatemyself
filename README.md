@@ -1,13 +1,12 @@
-<p align="center">
-  <img src="https://i.ibb.co/TctMZbX/Screenshot-1.png">
-</p>
-
 <div align="center">
 
 # IHATEMYSELF
 
 </div>
 
+<p align="center">
+  <img src="https://i.ibb.co/TctMZbX/Screenshot-1.png">
+</p>
 
 ---
 ![python3_support](https://img.shields.io/badge/Python-3-blue.svg "Python 3.11")
