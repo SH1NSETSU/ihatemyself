@@ -32,5 +32,12 @@
 - Simple. It creates a powershell script that launches upon startup and monitors the malware's process. If malware process or powershell closed, it will throw BSOD.
 - If tried to delete malware or powershell script from file directory, it will throw BSOD.
 
+## DISCLAIMER
+- This tool is provided for educational and research purposes only. The authors of this project are no way responsible for any misuse of this tool.
+- Please credit me if you are using this in your project.
+
+# Contributions
+- All contributions are welcome!
+
 ## Credits:
 * [rootm0s for winpwnage](https://github.com/rootm0s/WinPwnage/blob/master/README.md)
